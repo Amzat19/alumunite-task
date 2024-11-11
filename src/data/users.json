@@ -1,0 +1,42 @@
+[
+  {
+    "id": "2",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "role": "Admin",
+    "status": true,
+    "profilePhoto": "https://via.placeholder.com/150/0000FF/808080?Text=John+Doe"
+  },
+  {
+    "id": "3",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "role": "User",
+    "status": true,
+    "profilePhoto": "https://via.placeholder.com/150/FF5733/FFFFFF?Text=Jane+Smith"
+  },
+  {
+    "id": "4",
+    "name": "Samuel Green",
+    "email": "samuel.green@example.com",
+    "role": "Manager",
+    "status": true,
+    "profilePhoto": "https://via.placeholder.com/150/00FF00/FFFFFF?Text=Samuel+Green"
+  },
+  {
+    "id": "5",
+    "name": "Emily Johnson",
+    "email": "emily.johnson@example.com",
+    "role": "User",
+    "status": true,
+    "profilePhoto": "https://via.placeholder.com/150/FF1493/FFFFFF?Text=Emily+Johnson"
+  },
+  {
+    "id": "8",
+    "name": "Michael Brown",
+    "email": "michael.brown@example.com",
+    "role": "Admin",
+    "status": false,
+    "profilePhoto": "https://via.placeholder.com/150/4B0082/FFFFFF?Text=Michael+Brown"
+  }
+]
